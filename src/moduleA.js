@@ -1,0 +1,1 @@
+export const str = '哈喽'
